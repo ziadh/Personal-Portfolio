@@ -30,6 +30,10 @@ h3{
 p{
   line-height: 2;
 }
+
+ul{
+  padding-left: 20px;
+}
 hr{
   border: dotted #6D67E4 6px;
   border-bottom: none;
@@ -47,6 +51,11 @@ a:hover{
   color: #eaf6f6;
 }
 
+.other-skills{
+  padding-left: 225px;
+  list-style-position: inside;
+
+}
 .top{
   background-color: #59C1BD;
   position: relative;
