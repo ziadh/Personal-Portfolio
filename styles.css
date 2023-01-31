@@ -51,6 +51,13 @@ a:hover{
   color: #eaf6f6;
 }
 
+.my_image{
+  align-items: left;
+}
+
+.fast_learner_text{
+float: center;
+}
 .other-skills{
   padding-left: 225px;
   list-style-position: inside;
@@ -75,7 +82,6 @@ margin: 100px 0;
 }
 
 .top-magic{
-
   float: right;
   size-adjust: 50px;
 }
@@ -102,6 +108,43 @@ margin: 100px 0;
   float:right;
   margin-left: 30px;
   background-color: #FFE9B1;
+}
+
+.my_projects{
+  position: relative;
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.project_title{
+  margin-left: 30px;
+  
+}
+.download_btn{
+  margin-top: 140px;
+  margin-left: 315px;
+}
+.download_btn:hover{
+  color: black;
+}
+
+.sd-last-updated{
+  color:#00425A;
+  margin-left: 265px;
+}
+.projects_image{
+  width:20%;
+  float:right;
+  margin-top: -70;
+}
+
+.project_image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1%;
 }
 
 .contact-message{
