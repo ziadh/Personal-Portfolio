@@ -130,7 +130,13 @@ margin: 100px 0;
   color: black;
 }
 
-.sd-last-updated{
+#sd-last-release{
+  font-size: 17px;
+  color:#00425A;
+  margin-left: 265px;
+}
+#d-last-release{
+  font-size: 17px;
   color:#00425A;
   margin-left: 265px;
 }
