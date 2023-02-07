@@ -64,11 +64,11 @@ float: center;
 .top{
   background-color: #59C1BD;
   position: relative;
-  padding-top: 100px;
+  padding: 100px 20px;
 }
-.middle{
-margin: 100px 0;
 
+.middle{
+background-color: #85CDFD;
 }
 
 .bottom{
@@ -93,7 +93,6 @@ margin: 100px 0;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
-
 }
 
 .code-img{
@@ -119,6 +118,7 @@ margin: 100px 0;
   margin: 100px auto;
   text-align: left;
   line-height: 2;
+  
 }
 
 .project_title{
