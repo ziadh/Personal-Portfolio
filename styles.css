@@ -51,6 +51,8 @@ a:hover{
   color: #eaf6f6;
 }
 
+
+
 .my_image{
   align-items: left;
 }
@@ -58,11 +60,7 @@ a:hover{
 .fast_learner_text{
 float: center;
 }
-.other-skills{
-  padding-left: 225px;
-  list-style-position: inside;
 
-}
 .top{
   background-color: #59C1BD;
   position: relative;
@@ -70,6 +68,7 @@ float: center;
 }
 .middle{
 margin: 100px 0;
+
 }
 
 .bottom{
@@ -94,6 +93,7 @@ margin: 100px 0;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+
 }
 
 .code-img{
@@ -103,6 +103,9 @@ margin: 100px 0;
   background-color:#DEF5E5 ;
 }
 
+.skills{
+  margin-left: 250px;
+  }
 .mindset-img{
   width: 20%;
   float:right;
