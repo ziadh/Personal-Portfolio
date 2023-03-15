@@ -219,11 +219,12 @@ background-color: #85CDFD;
 }
 .my-links{
   margin-top: 50px;
+  color: white;
 }
 
 .copyright {
   color: #eaf6f6;
-  font-size: 0.75rem ;
+  font-size: 20px ;
   padding: 20px 0px;
 }
 
