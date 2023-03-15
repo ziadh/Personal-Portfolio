@@ -1,4 +1,15 @@
+.top_links{
+color: #AA77FF;
+}
 
+.project_desc{
+  color: #97DEFF;
+}
+.intro{
+  color:#62CDFF ;
+  padding-top: 50px;
+  font-size: 30px;
+}
 body{
   color:#40514E;
   margin: 0;
@@ -54,7 +65,8 @@ a:hover{
 
 
 .my_image{
-  align-items: left;
+  padding-left: 20px;
+  margin-left: -100px;
 }
 
 .fast_learner_text{
@@ -102,6 +114,22 @@ background-color: #85CDFD;
   background-color:#DEF5E5 ;
 }
 
+
+.about_top_label{
+  top:0;
+  margin: 50px;;
+  margin-left: 150px;
+  padding: 0;
+
+}
+.projects_background{
+  top:0;
+  padding: 0;
+  margin:0;
+  position: absolute;
+  background-color: #85CDFD;
+
+}
 .skills{
   margin-left: 250px;
   }
@@ -113,6 +141,7 @@ background-color: #85CDFD;
 }
 
 .my_projects{
+  
   position: relative;
   width: 50%;
   margin: 100px auto;
@@ -198,6 +227,6 @@ background-color: #85CDFD;
   padding: 20px 0px;
 }
 
-.programmer{
+.Data_Analyst{
   color:#191825;
 }
