@@ -1,2 +1,1 @@
-# Personal Portfolio
- 
+Feel free to view my personal portfolio from [here](https://ziadh.github.io/Personal-Portfolio/)
